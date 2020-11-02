@@ -1,1 +1,9 @@
-# WebSocket
+web_soc
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile

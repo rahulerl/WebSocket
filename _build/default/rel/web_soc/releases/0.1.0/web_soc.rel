@@ -1,0 +1,13 @@
+{release,{"web_soc","0.1.0"},
+         {erts,"11.1.1"},
+         [{web_soc,"0.1.0"},
+          {sasl,"4.0.1"},
+          {kernel,"7.1"},
+          {stdlib,"3.13.2"},
+          {cowboy,"2.8.0"},
+          {crypto,"4.8"},
+          {cowlib,"2.9.1"},
+          {ranch,"1.7.1"},
+          {ssl,"10.1"},
+          {public_key,"1.9.1"},
+          {asn1,"5.0.14"}]}. 
